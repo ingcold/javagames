@@ -1,0 +1,16 @@
+右击src new package时，只建一个子类package时，结构不会显现出来
+选中某一个元素（package，module，directory等）时，左击File来New，会与这个元素有联系的
+承错原则：代码没写完整，IDE也给你报错，等写完再看所有的错误
+alt+enter
+在写完windowClosing后，它自动给你选择
+在写完new Runnable，它自动给你补全一堆代码
+alt+shift+enter import
+可以随便选一个非注释的地方写Canvas把鼠标放上面看信息,而且要写到类内，不然Unexpected token
+在一个package，某个有错误的Class好像会影响另一个同package下的Class的运行
+在表示Run的三角形的左边有一个下拉窗口，可以选择运行哪一个Class里面的main,还有一个Current File
+有多个含main的Class时，直接按三角形Run会运行上一个main，这时可以把鼠标放到要运行的类上右击选中来Run
+在左侧随机选中一个类以放置鼠标，再输入字母可以开始寻找字符的功能
+new ~~()进入()里面，直接按;就可以跳到后面补; 而不需要按);
+ctrl+alt+down箭头可以进入这个project的文件夹
+ctrl+shift多选
+.md文件有Editor PreviewAndEditor Preview三钟

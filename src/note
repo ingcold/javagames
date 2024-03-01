@@ -1,0 +1,17 @@
+project-->module-->package
+            src
+package下可以有package，module下也可以有module，但只有在project视图下可以显现结构，
+在module视图下都是平行的
+右击-->copy path-->root...
+在module模式视图下右击一个module来new，new出来的java class似乎不在src下面
+src-->right click-->new-->package
+new出来的package会根据你的命名体现的结构自动放到合适的位置，比如
+javagames.util和javagames.render就会平行地放置在javagames下
+不同module下的package似乎是不能识别而import的
+一直插电，在休眠的情况下，电脑也会开机的
+比如字符是写bmp的话，真的用在系统里存储就真的是bmp格式存的，就好像你键盘手动更改文件格式
+public static final int-->psfi
+同一个module（src）下，如果有一个类报错，似乎会影响整个module的运行
+可以在这个project下建立一个不同的module
+右击-->open in-->Terminal
+可以用usage
